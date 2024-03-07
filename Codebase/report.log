@@ -1,0 +1,599 @@
+2024-02-20 22:52:12,472 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-20 22:52:41,765 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.1302248058861373, best pos: [1.73181655 1.28605761 5.05385135 2.21149959 5.47056123 0.99833238
+ 2.65811478 3.26060043 2.48315344]
+2024-02-20 22:53:10,220 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-20 22:53:12,775 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.12178788266722436, best pos: [3.10239123 2.21778025 5.51620912 6.05716939]
+2024-02-20 22:53:36,902 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-20 22:54:02,546 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.13146249405933086, best pos: [4.09205897 5.49121496 3.45508385 2.47609268]
+2024-02-20 22:54:27,497 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-20 22:57:03,119 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-20 22:57:34,655 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.13189718375337026, best pos: [2.50976945 6.10597368 5.48425152 4.04851817]
+2024-02-20 22:58:43,810 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.1320127806983016, best pos: [5.4724575  4.01172926 3.27650827 2.53208892]
+2024-02-20 23:00:40,917 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-20 23:00:53,445 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.12970745806283066, best pos: [2.40317033 5.24927128 5.49130546 4.5079523 ]
+2024-02-21 11:22:20,578 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:22:20,866 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.002416772285068178, best pos: [2.6134566  3.85798515 1.66571375 2.05644854]
+2024-02-21 11:22:55,842 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:22:56,128 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.004140309507051881, best pos: [5.81729069 5.81246521 4.59580097 6.04183524]
+2024-02-21 11:23:10,888 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:23:11,175 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.0017679108736003307, best pos: [3.28735003 1.03553941 2.77336276 3.50150715]
+2024-02-21 11:23:19,890 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:23:20,261 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.0017111047654481799, best pos: [0.13935204 0.11571741 2.2723294  6.23891179]
+2024-02-21 11:23:40,482 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:23:40,750 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.023071463603504438, best pos: [5.64245074 1.01621606 3.87460911 5.35240618]
+2024-02-21 11:24:27,154 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:24:29,565 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.0024024708481271565, best pos: [3.42206316 2.52779769 3.53207653 2.67259935]
+2024-02-21 11:25:05,458 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:25:18,720 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.13130209120611078, best pos: [5.02908935 5.49598216 2.88252853 2.4688714 ]
+2024-02-21 11:27:18,692 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 11:27:45,998 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.12384412668423403, best pos: [2.29559297 4.91017103 5.57316428 3.93300462]
+2024-02-21 23:07:37,847 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-02-21 23:08:09,665 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.13019474711753443, best pos: [1.30890211 5.45899019 2.62765238 5.28193432]
+2024-02-21 23:19:42,111 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-21 23:34:50,378 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:34:50,379 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:36:03,863 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:36:03,863 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:37:43,681 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:37:43,681 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:38:39,035 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 23, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:38:39,035 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 23, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:39:08,474 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 25, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:39:08,482 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 25, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:39:54,125 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 25, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:39:54,125 - pygad.pygad - ERROR - cannot reshape array of size 1 into shape (4,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 25, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution[solution_idx], **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 72, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 1 into shape (4,1)
+2024-02-21 23:41:42,014 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-21 23:44:44,204 - pygad.pygad - ERROR - cannot reshape array of size 4 into shape (8,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 71, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 4 into shape (8,1)
+2024-02-21 23:44:44,209 - pygad.pygad - ERROR - cannot reshape array of size 4 into shape (8,1)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 71, in optimize_program_when_x_is_ellipsoid
+    y, y_norm_grad = forward_model_theta_to_y(theta_array, len_dict, dim_v, ellipsoid_constants, ellipsoid_centre)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 5, in forward_model_theta_to_y
+    theta_reshape = theta_flat.reshape((len_dict, (dim_v - 1)))
+ValueError: cannot reshape array of size 4 into shape (8,1)
+2024-02-21 23:45:06,250 - pygad.pygad - ERROR - shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 118, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method='COBYLA', bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 716, in minimize
+    res = _minimize_cobyla(fun, x0, args, constraints, callback=callback,
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 35, in wrapper
+    return func(*args, **kwargs)
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 266, in _minimize_cobyla
+    f = c['fun'](x0, *c['args'])
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 107, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 96, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 42, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+2024-02-21 23:45:06,255 - pygad.pygad - ERROR - shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 118, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method='COBYLA', bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 716, in minimize
+    res = _minimize_cobyla(fun, x0, args, constraints, callback=callback,
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 35, in wrapper
+    return func(*args, **kwargs)
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 266, in _minimize_cobyla
+    f = c['fun'](x0, *c['args'])
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 107, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 96, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 42, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+2024-02-21 23:54:26,702 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-22 00:15:33,377 - pygad.pygad - ERROR - shapes (2,2) and (1,) not aligned: 2 (dim 1) != 1 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 118, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method='COBYLA', bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 716, in minimize
+    res = _minimize_cobyla(fun, x0, args, constraints, callback=callback,
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 35, in wrapper
+    return func(*args, **kwargs)
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 266, in _minimize_cobyla
+    f = c['fun'](x0, *c['args'])
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 107, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 96, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 42, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,2) and (1,) not aligned: 2 (dim 1) != 1 (dim 0)
+2024-02-22 00:15:33,377 - pygad.pygad - ERROR - shapes (2,2) and (1,) not aligned: 2 (dim 1) != 1 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 118, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method='COBYLA', bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 716, in minimize
+    res = _minimize_cobyla(fun, x0, args, constraints, callback=callback,
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 35, in wrapper
+    return func(*args, **kwargs)
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 266, in _minimize_cobyla
+    f = c['fun'](x0, *c['args'])
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 107, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 96, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 42, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,2) and (1,) not aligned: 2 (dim 1) != 1 (dim 0)
+2024-02-22 00:16:57,301 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-22 10:30:01,042 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-22 10:30:09,961 - pygad.pygad - ERROR - The plot_genes() method with solutions='all' can only be called if 'save_solutions=True' in the pygad.GA class constructor.
+2024-02-22 10:58:00,057 - pygad.pygad - ERROR - unsupported operand type(s) for +: 'int' and 'MutableDenseNDimArray'
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 118, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method='COBYLA', bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 716, in minimize
+    res = _minimize_cobyla(fun, x0, args, constraints, callback=callback,
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 35, in wrapper
+    return func(*args, **kwargs)
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 266, in _minimize_cobyla
+    f = c['fun'](x0, *c['args'])
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 107, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 94, in constraint_function1
+    feedback = compute_feedback(eta_psi, psi_dict)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\create_dictionary.py", line 76, in compute_feedback
+    result = sum(coeff_dict[key]*vector_dict[key] for key in vector_dict)
+TypeError: unsupported operand type(s) for +: 'int' and 'MutableDenseNDimArray'
+2024-02-22 10:58:00,068 - pygad.pygad - ERROR - unsupported operand type(s) for +: 'int' and 'MutableDenseNDimArray'
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 118, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method='COBYLA', bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 716, in minimize
+    res = _minimize_cobyla(fun, x0, args, constraints, callback=callback,
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 35, in wrapper
+    return func(*args, **kwargs)
+  File "E:\Python\lib\site-packages\scipy\optimize\_cobyla_py.py", line 266, in _minimize_cobyla
+    f = c['fun'](x0, *c['args'])
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 107, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 94, in constraint_function1
+    feedback = compute_feedback(eta_psi, psi_dict)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\create_dictionary.py", line 76, in compute_feedback
+    result = sum(coeff_dict[key]*vector_dict[key] for key in vector_dict)
+TypeError: unsupported operand type(s) for +: 'int' and 'MutableDenseNDimArray'
+2024-02-22 11:00:39,495 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-22 11:00:41,797 - pygad.pygad - ERROR - The plot_genes() method with solutions='all' can only be called if 'save_solutions=True' in the pygad.GA class constructor.
+2024-02-22 11:25:44,833 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-22 11:25:51,802 - pygad.pygad - ERROR - The plot_genes() method with solutions='all' can only be called if 'save_solutions=True' in the pygad.GA class constructor.
+2024-02-22 23:52:11,833 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-23 00:14:59,203 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-23 00:24:42,235 - pygad.pygad - ERROR - index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1956, in run
+    self.run_select_parents()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 2127, in run_select_parents
+    self.last_generation_parents, self.last_generation_parents_indices = self.select_parents(self.last_generation_fitness,
+  File "E:\Python\lib\site-packages\pygad\utils\parent_selection.py", line 182, in roulette_wheel_selection
+    probs_start, probs_end, parents = self.wheel_cumulative_probs(probs=probs.copy(),
+  File "E:\Python\lib\site-packages\pygad\utils\parent_selection.py", line 216, in wheel_cumulative_probs
+    min_probs_idx = numpy.where(probs == numpy.min(probs))[0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+2024-02-23 00:35:31,191 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-23 00:39:04,107 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-23 00:44:32,640 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-23 01:11:02,951 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-23 01:23:24,368 - pygad.pygad - ERROR - index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1956, in run
+    self.run_select_parents()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 2127, in run_select_parents
+    self.last_generation_parents, self.last_generation_parents_indices = self.select_parents(self.last_generation_fitness,
+  File "E:\Python\lib\site-packages\pygad\utils\parent_selection.py", line 182, in roulette_wheel_selection
+    probs_start, probs_end, parents = self.wheel_cumulative_probs(probs=probs.copy(),
+  File "E:\Python\lib\site-packages\pygad\utils\parent_selection.py", line 216, in wheel_cumulative_probs
+    min_probs_idx = numpy.where(probs == numpy.min(probs))[0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+2024-02-23 01:26:21,526 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-24 12:46:30,276 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-24 12:53:05,629 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-24 12:53:47,593 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-24 13:14:31,448 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-25 19:46:26,788 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-02-25 19:55:21,205 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-03 16:36:56,801 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-03 16:48:01,717 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-03 16:56:18,432 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-03 16:57:07,477 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-03 17:00:26,772 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-03 17:27:19,719 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 15:18:47,119 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 15:28:14,308 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 15:31:24,425 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 15:33:45,802 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 15:34:49,023 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 15:34:59,386 - pygad.pygad - ERROR - shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 119, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method=method_innermin, bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 719, in minimize
+    res = _minimize_slsqp(fun, x0, args, jac, bounds,
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in _minimize_slsqp
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in <listcomp>
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 108, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 97, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 43, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+2024-03-04 15:34:59,397 - pygad.pygad - ERROR - shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 119, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method=method_innermin, bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 719, in minimize
+    res = _minimize_slsqp(fun, x0, args, jac, bounds,
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in _minimize_slsqp
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in <listcomp>
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 108, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 97, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 43, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+2024-03-04 15:36:07,721 - pygad.pygad - ERROR - shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 119, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method=method_innermin, bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 719, in minimize
+    res = _minimize_slsqp(fun, x0, args, jac, bounds,
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in _minimize_slsqp
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in <listcomp>
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 108, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 97, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 43, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+2024-03-04 15:36:07,727 - pygad.pygad - ERROR - shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 119, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method=method_innermin, bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 719, in minimize
+    res = _minimize_slsqp(fun, x0, args, jac, bounds,
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in _minimize_slsqp
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 329, in <listcomp>
+    mieq = sum(map(len, [atleast_1d(c['fun'](x, *c['args']))
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 108, in <lambda>
+    constraint_functions1 = [lambda x, k=k: -constraint_function1(x, k) for k in range(dimension_d)]
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 97, in constraint_function1
+    x_dot_noisy = compute_x_dot_noisy(y, y_norm_grad, feedback, dim_v, dim_m, max_noise, k)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 43, in compute_x_dot_noisy
+    g_array = np.dot(g_matrix, feedback)
+ValueError: shapes (2,1) and (2,) not aligned: 1 (dim 1) != 2 (dim 0)
+2024-03-04 15:46:04,536 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 16:18:51,231 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 16:21:05,851 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-04 16:38:17,715 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 16:03:51,179 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 16:31:56,598 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 16:35:49,570 - pygad.pygad - ERROR - object of type 'int' has no len()
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 129, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method=method_innermin, bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 719, in minimize
+    res = _minimize_slsqp(fun, x0, args, jac, bounds,
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 374, in _minimize_slsqp
+    sf = _prepare_scalar_function(func, x, jac=jac, args=args, epsilon=eps,
+  File "E:\Python\lib\site-packages\scipy\optimize\_optimize.py", line 383, in _prepare_scalar_function
+    sf = ScalarFunction(fun, x0, args, grad, hess,
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 158, in __init__
+    self._update_fun()
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 251, in _update_fun
+    self._update_fun_impl()
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 155, in update_fun
+    self.f = fun_wrapped(self.x)
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 137, in fun_wrapped
+    fx = fun(np.copy(x), *args)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 81, in objective_function
+    for k in range(len(len_dict)):
+TypeError: object of type 'int' has no len()
+2024-03-06 16:35:49,641 - pygad.pygad - ERROR - object of type 'int' has no len()
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, **kwargs)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 129, in optimize_program_when_x_is_ellipsoid
+    result = minimize(objective_function, initial_guess, method=method_innermin, bounds=bounds, constraints=constraints, \
+  File "E:\Python\lib\site-packages\scipy\optimize\_minimize.py", line 719, in minimize
+    res = _minimize_slsqp(fun, x0, args, jac, bounds,
+  File "E:\Python\lib\site-packages\scipy\optimize\_slsqp_py.py", line 374, in _minimize_slsqp
+    sf = _prepare_scalar_function(func, x, jac=jac, args=args, epsilon=eps,
+  File "E:\Python\lib\site-packages\scipy\optimize\_optimize.py", line 383, in _prepare_scalar_function
+    sf = ScalarFunction(fun, x0, args, grad, hess,
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 158, in __init__
+    self._update_fun()
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 251, in _update_fun
+    self._update_fun_impl()
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 155, in update_fun
+    self.f = fun_wrapped(self.x)
+  File "E:\Python\lib\site-packages\scipy\optimize\_differentiable_functions.py", line 137, in fun_wrapped
+    fx = fun(np.copy(x), *args)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\inner_min.py", line 81, in objective_function
+    for k in range(len(len_dict)):
+TypeError: object of type 'int' has no len()
+2024-03-06 16:37:56,346 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 16:47:23,517 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 16:53:00,339 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:35:23,484 - pygad.pygad - ERROR - name 'time_list' is not defined
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, time_list, **kwargs)
+NameError: name 'time_list' is not defined
+2024-03-06 21:35:23,484 - pygad.pygad - ERROR - name 'time_list' is not defined
+Traceback (most recent call last):
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1914, in run
+    self.last_generation_fitness = self.cal_pop_fitness()
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1871, in cal_pop_fitness
+    raise ex
+  File "E:\Python\lib\site-packages\pygad\pygad.py", line 1708, in cal_pop_fitness
+    fitness = self.fitness_func(self, sol, sol_idx)
+  File "D:\Acads_Sem8\WURP2023\Codebase_AFSRSICCS\GA.py", line 22, in fitness_func
+    fitness_value, _ = optimize_program_when_x_is_ellipsoid(solution, time_list, **kwargs)
+NameError: name 'time_list' is not defined
+2024-03-06 21:36:24,883 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:40:18,260 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:41:18,898 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:42:41,080 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:43:43,229 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:44:51,834 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:46:34,032 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:48:38,148 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:49:38,000 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:53:02,795 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:54:55,248 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 21:58:34,149 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 22:03:10,098 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 22:05:08,052 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 22:06:40,797 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 22:22:34,822 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 22:24:15,983 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 22:25:35,017 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-03-06 22:28:12,009 - matplotlib.legend - WARNING - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
